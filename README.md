@@ -6,5 +6,5 @@ This repo contains:
 - *report.pdf*, the submitted report of the analysis 
 - *presentation.pdf*, the submitted presentation of the analysis.
 ---
-**Skills**: data analysis, linear regression 
+**Skills**: data analysis, linear regression   
 **Language**: StataSE, Python
